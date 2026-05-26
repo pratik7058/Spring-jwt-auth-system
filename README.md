@@ -167,9 +167,8 @@ Feel free to open issues and pull requests to improve the project.
 ---
 
 ## Contact
-For queries, contact 
-- Gmail: [baviskarakshay0702@gmail.com](mailto:work.akshaybaviskar@gmail.com)
-- Linkedin: [akshaybaviskar](https://www.linkedin.com/in/akshaybaviskar/)
-- GitHub: [akshaybaviskar](https://github.com/akshaybaviskar)
-
+@gmailFor queries, contact 
+Gmail: chavan.pratik7058@gmail.com
+Linkedin: www.linkedin.com/in/pratik-chavan-21x
+GitHub: https://github.com/pratik7058
 
